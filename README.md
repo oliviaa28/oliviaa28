@@ -1,61 +1,38 @@
-<h1 align="center">Hi 👋 I'm Olivia Gavril</h1>
+<h1 align="center">Hi 👋 I'm Olivia</h1>
 
 <p align="center">
 Computer Science student @ Alexandru Ioan Cuza University of Iași  
-Passionate about algorithms, systems and backend development
+Interested in algorithms, systems and backend development
 </p>
 
 ---
 
-## 🧠 About Me
+### 💻 Tech Stack
 
-🎓 2nd year Computer Science student at **UAIC Iași**
-
-I enjoy building systems, exploring algorithms and understanding how
-software works behind the scenes. I like tackling complex problems,
-optimizing solutions and constantly learning new technologies.
-
-Outside tech, I am also a **competitive athlete**, where discipline,
-consistency and perseverance play a central role in my life.
-
-
-## 💻 Technologies & Tools
-
-**Languages**
-
-C • C++ • Java • SQL • HTML • CSS
-
-**Concepts**
-
-Algorithms  
-Data Structures  
-Object-Oriented Programming  
-Databases  
-Computer Networks
-
-**Tools**
-
-Linux  
-Git  
-Raylib  
-Bison / YACC
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,linux,git,mysql" />
+</p>
 
 ---
 
-## 📚 Interests
+### 📚 Interests
 
-- Algorithms and optimization
-- Systems programming
-- DevOps and infrastructure
-- Backend development
-
-
-
-## 📫 Contact
-
-📧 Email: **oliviagavril47@gmail.com**
+- Algorithms & Data Structures  
+- Systems Programming  
+- Backend Development  
+- DevOps & Infrastructure  
 
 ---
 
-⭐ Always open to learning opportunities, collaborations and internships.
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Contact
+
+📧 **oliviagavril47@gmail.com**
