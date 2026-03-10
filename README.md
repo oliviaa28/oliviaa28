@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋 I'm Olivia</h1>
+<h1 align="center"> ⊹ ࣪ ˖ Hello, I am Olivia ˚˖𓍢ִ໋❀ </h1>
 
 <p align="center">
-Computer Science student @ Alexandru Ioan Cuza University of Iași  
-Interested in algorithms, systems and backend development
+2nd year Computer Science student @ FII, Alexandru Ioan Cuza University of Iași  
 </p>
 
 ---
