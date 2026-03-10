@@ -14,14 +14,6 @@
 
 ---
 
-### 📚 Interests
-
-- Algorithms & Data Structures  
-- Systems Programming  
-- Backend Development  
-- DevOps & Infrastructure  
-
----
 
 ### 📊 GitHub Stats
 
