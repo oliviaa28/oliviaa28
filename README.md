@@ -10,7 +10,7 @@ Interested in algorithms, systems and backend development
 ### 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,linux,git,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,linux,git" />
 </p>
 
 ---
