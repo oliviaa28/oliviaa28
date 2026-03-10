@@ -18,21 +18,6 @@ optimizing solutions and constantly learning new technologies.
 Outside tech, I am also a **competitive athlete**, where discipline,
 consistency and perseverance play a central role in my life.
 
----
-
-## 🥋 Athlete Mindset
-
-🏆 **6× National Champion in Qwan Ki Do**
-
-Currently preparing for the **World Championship as part of the National Team.**
-
-Training and competing at a high level has shaped the way I approach
-challenges: with discipline, resilience and long-term focus.
-
-These principles strongly influence how I learn programming,
-work on projects and collaborate with others.
-
----
 
 ## 💻 Technologies & Tools
 
