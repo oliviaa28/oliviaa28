@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,linux,git,mysql,bash" />
@@ -15,7 +15,7 @@
 ---
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 
@@ -26,6 +26,6 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 📧 **oliviagavril47@gmail.com**
