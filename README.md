@@ -9,19 +9,7 @@
 ###  Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,linux,git,mysql,bash" />
-</p>
-
----
-
-
-### GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oliviaa28&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviaa28&layout=compact&theme=tokyonight"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,linux,git,mysql,bash" />
 </p>
 
 ---
