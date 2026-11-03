@@ -16,7 +16,7 @@ public class Olivia {
 
     String studies   = "Computer Science @ FII, year 3";
     String[] tools   = {"Java", "Python", "C++", "SQL", "Linux"};
-    String building  = "an app that pulls color palettes out of paintings";
+    String building  = "my ML/AI skills";
     String offline   = "reading, (most probably) training, drawing, hiking, running";
     String lookingFor = "an opportunity where I get to ship & work on real projects, that make an impact";
 
